@@ -1,13 +1,3 @@
-# 💫 About Me:
-# Hi, I'm Junwon Kim 👋
-
-> Learning to build reliable services by understanding problems before implementing solutions.
-
-- 🎯 Preparing for a backend developer role in the first half of 2027.
-- 🌱 Strengthening backend fundamentals through hands-on projects.
-- 🚀 Building projects from development to deployment and operation.
-- 🧩 Learning how backend engineers design, build, and improve services.
-
 <br>
 # 💻 Tech Stack
 <div align="center">
