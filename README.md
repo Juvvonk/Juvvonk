@@ -7,9 +7,12 @@ Java와 Spring 기반으로 API를 설계·구현하며, 안정적인 서비스�
 
 ## 📫 그외 연락처
 
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juvvonk_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juvvonk/)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/juvvonk/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/juvvonk_" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" />
+  </a>
+</p>
